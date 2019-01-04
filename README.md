@@ -1,6 +1,8 @@
 # Document-Retrieval-System-Text-Processing
 
-Goal: To retrieve top 10 documents for each query using three schemes namely binary, tf anf tf.idf
+###### Goal: 
+
+To retrieve top 10 documents for each query using three schemes namely binary, tf anf tf.idf
 
 ###### Implementation:
 
