@@ -2,7 +2,7 @@
 
 ###### Goal: 
 
-To retrieve top 10 documents for each query using three schemes namely binary, tf anf tf.idf
+To retrieve top 10 documents for each query using three schemes namely binary, tf and tf.idf
 
 ###### Implementation:
 
